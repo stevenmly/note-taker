@@ -1,12 +1,17 @@
 [
   {
-    "title": "Test Title",
-    "text": "Test text",
-    "id": 0
+    "title": "Example Note",
+    "text": "Example text for note",
+    "id": "0"
   },
   {
     "title": "Meeting",
-    "text": "Talk to team about daily progress",
-    "id": "eInnAdQHaEiAGliH4UOzN"
+    "text": "Meet with team about daily progress",
+    "id": "IVAU_80js4A4H-PH04_rM"
+  },
+  {
+    "title": "Project-2",
+    "text": "Fix bug on project 2",
+    "id": "PSIv2iImWt5iA6Rps45mF"
   }
 ]

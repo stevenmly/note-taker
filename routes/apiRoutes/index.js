@@ -3,8 +3,9 @@ const { validateNote, writeToFile, findNote, deleteFile } = require('../../lib/n
 let notes = require("../../db/db.json");
 
 //api routes
-router.get('./notes', (req,res) => {
+router.get('/notes', (req, res) => {
     res.json(notes);
+    console.log(notes);
 });
 
 router.get('/notes/:id', (req, res) => {

@@ -16,7 +16,7 @@ const { validateNote, writeToFile, findNote, deleteFile } = require('./lib/notes
 app.use(express.static('./public'));
 
 // parse incoming string or array data
-app.use(express.urlencoded({extended: true}));
+app.use(express.urlencoded({ extended: true }));
 
 // parse incoming JSON data
 app.use(express.json());
