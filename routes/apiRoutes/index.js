@@ -6,3 +6,5 @@ let notes = require("../../db/db.json");
 router.get('./notes', (req,res) => {
     res.json(notes);
 })
+
+module.exports = router;
