@@ -5,11 +5,6 @@
   ## Description
   #### This application can be used to create, save and delete notes by using an Express.js back end.Note Taker is also capable of saving and retrieving data from a JSON file. Nano ID is also used to give each note a unique id.
   ---
-  ## Screenshots
-    ![Application-screenshot](public/assets/images/screenshot1.png)
-    ![Application-screenshot](public/assets/images/screenshot2.png)
-    ![Application-screenshot](public/assets/images/screenshot3.png)
-  ---
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -37,3 +32,6 @@
   ## Questions
   ##### If you have any questions about this repo, contact stevenmly at ly.steven16@gmail.com
   ##### https://github.com/stevenmly
+
+  ## Website
+  https://sleepy-journey-15979.herokuapp.com/
